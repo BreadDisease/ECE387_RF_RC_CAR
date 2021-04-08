@@ -7,3 +7,11 @@ Potential library for interfacing with CC1101
 
 https://github.com/BreadDisease/ECE387_Midterm_RF/tree/main/Presentation_Materials
 Midterm project that contains helpful code
+
+RC Car Pins: 11 pins
+5 pins for receiver
+6 pins for motor controller
+
+Controller Pins:
+5 pins for transmitter
+3 pins for joystick
