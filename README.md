@@ -16,5 +16,8 @@ Controller Pins:
 5 pins for transmitter
 3 pins for joystick
 
+JoyStick Test Code :
+https://create.arduino.cc/projecthub/MisterBotBreak/how-to-use-a-joystick-with-serial-monitor-1f04f0
+
 3D Printing Info
 https://www.mid.miamioh.edu/library/3Dprinting.htm
