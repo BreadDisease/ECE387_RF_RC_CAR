@@ -15,3 +15,6 @@ RC Car Pins: 11 pins
 Controller Pins:
 5 pins for transmitter
 3 pins for joystick
+
+3D Printing Info
+https://www.mid.miamioh.edu/library/3Dprinting.htm
