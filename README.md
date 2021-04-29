@@ -11,8 +11,8 @@ Library that I tried but failed to get working for interfacing with CC1101
 https://github.com/BreadDisease/ECE387_Midterm_RF/tree/main/Presentation_Materials
 Midterm project that contains helpful code
 
-RC Car Pins: 12 pins
-5 pins for receiver
+RC Car Pins: 15 pins
+6 pins for receiver - then 2 for GND and 3.3 V
 6 pins for motor controller
 1 pin for servo
 
