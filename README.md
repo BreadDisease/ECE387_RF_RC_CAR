@@ -2,6 +2,9 @@
 
 For this project, Jordan Smith and I (Aidan Quimby) created an RC car controlled by an RF remote with a joystick.
 
+The demo can be found at this youtube video
+https://youtu.be/Q46gj3o8Jcw
+
 ELECHOUSE CC1101 Library:
 http://www.elechouse.com/elechouse/images/product/CC1101%20Wirless%20Data%20Transmittion%20Module/Code.rar
 
